@@ -1,0 +1,13 @@
+C:\Users\Chris\source\repos\SoftSensConf\bin\Debug\SoftSensConf.exe.config
+C:\Users\Chris\source\repos\SoftSensConf\bin\Debug\SoftSensConf.exe
+C:\Users\Chris\source\repos\SoftSensConf\bin\Debug\SoftSensConf.pdb
+C:\Users\Chris\source\repos\SoftSensConf\obj\Debug\SoftSensConf.csprojAssemblyReference.cache
+C:\Users\Chris\source\repos\SoftSensConf\obj\Debug\SoftSensConf.FormMain.resources
+C:\Users\Chris\source\repos\SoftSensConf\obj\Debug\SoftSensConf.Properties.Resources.resources
+C:\Users\Chris\source\repos\SoftSensConf\obj\Debug\SoftSensConf.csproj.GenerateResource.cache
+C:\Users\Chris\source\repos\SoftSensConf\obj\Debug\SoftSensConf.csproj.CoreCompileInputs.cache
+C:\Users\Chris\source\repos\SoftSensConf\obj\Debug\SoftSensConf.exe
+C:\Users\Chris\source\repos\SoftSensConf\obj\Debug\SoftSensConf.pdb
+C:\Users\Chris\source\repos\SoftSensConf\obj\Debug\SoftSensConf.FormPassword.resources
+C:\Users\Chris\source\repos\SoftSensConf\obj\Debug\SoftSensConf.UserControl1.resources
+C:\Users\Chris\source\repos\SoftSensConf\obj\Debug\SoftSensConf.FormPrompt.resources
